@@ -19,4 +19,12 @@ public class InitController {
 		
 	}
 	
+	
+	@GetMapping(path = "/stores")
+	public String stores() {
+		
+		return "retorno dos stores";
+		
+	}
+	
 }
