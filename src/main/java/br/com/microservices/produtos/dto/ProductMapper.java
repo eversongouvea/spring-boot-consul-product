@@ -1,9 +1,8 @@
-package br.com.microservices.produtos.dto.mapper;
+package br.com.microservices.produtos.dto;
 
 import org.mapstruct.Mapper;
 import org.mapstruct.factory.Mappers;
 
-import br.com.microservices.produtos.dto.ProductDTO;
 import br.com.microservices.produtos.model.Product;
 
 @Mapper

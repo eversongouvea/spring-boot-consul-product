@@ -1,4 +1,4 @@
-package br.com.microservices.produtos.web;
+package br.com.microservices.produtos.config;
 
 import java.net.URI;
 import java.util.Optional;
