@@ -9,6 +9,6 @@ spring:
         enabled: true
       
 server:
-  port: ${my.port:0}
+  port: 0
   
         
